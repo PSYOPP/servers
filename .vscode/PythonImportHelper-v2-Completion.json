@@ -1,0 +1,1346 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "tomlkit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tomlkit",
+        "description": "tomlkit",
+        "detail": "tomlkit",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NewType",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlunparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "markdownify",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "markdownify",
+        "description": "markdownify",
+        "detail": "markdownify",
+        "documentation": {}
+    },
+    {
+        "label": "readabilipy.simple_json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "readabilipy.simple_json",
+        "description": "readabilipy.simple_json",
+        "detail": "readabilipy.simple_json",
+        "documentation": {}
+    },
+    {
+        "label": "McpError",
+        "importPath": "mcp.shared.exceptions",
+        "description": "mcp.shared.exceptions",
+        "isExtraImport": true,
+        "detail": "mcp.shared.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "McpError",
+        "importPath": "mcp.shared.exceptions",
+        "description": "mcp.shared.exceptions",
+        "isExtraImport": true,
+        "detail": "mcp.shared.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "McpError",
+        "importPath": "mcp.shared.exceptions",
+        "description": "mcp.shared.exceptions",
+        "isExtraImport": true,
+        "detail": "mcp.shared.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "McpError",
+        "importPath": "mcp.shared.exceptions",
+        "description": "mcp.shared.exceptions",
+        "isExtraImport": true,
+        "detail": "mcp.shared.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationOptions",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationOptions",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "mcp.server.stdio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mcp.server.stdio",
+        "description": "mcp.server.stdio",
+        "detail": "mcp.server.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "stdio_server",
+        "importPath": "mcp.server.stdio",
+        "description": "mcp.server.stdio",
+        "isExtraImport": true,
+        "detail": "mcp.server.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "stdio_server",
+        "importPath": "mcp.server.stdio",
+        "description": "mcp.server.stdio",
+        "isExtraImport": true,
+        "detail": "mcp.server.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "stdio_server",
+        "importPath": "mcp.server.stdio",
+        "description": "mcp.server.stdio",
+        "isExtraImport": true,
+        "detail": "mcp.server.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "mcp.types",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorData",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "GetPromptResult",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "Prompt",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "PromptArgument",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "PromptMessage",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "TextContent",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "INVALID_PARAMS",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "INTERNAL_ERROR",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "ClientCapabilities",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "TextContent",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "ListRootsResult",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "RootsCapability",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "TextContent",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "ImageContent",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "EmbeddedResource",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "Protego",
+        "importPath": "protego",
+        "description": "protego",
+        "isExtraImport": true,
+        "detail": "protego",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ServerSession",
+        "importPath": "mcp.server.session",
+        "description": "mcp.server.session",
+        "isExtraImport": true,
+        "detail": "mcp.server.session",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "git",
+        "description": "git",
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "git_checkout",
+        "importPath": "mcp_server_git.server",
+        "description": "mcp_server_git.server",
+        "isExtraImport": true,
+        "detail": "mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "InitializationOptions",
+        "importPath": "mcp.server.models",
+        "description": "mcp.server.models",
+        "isExtraImport": true,
+        "detail": "mcp.server.models",
+        "documentation": {}
+    },
+    {
+        "label": "InitializationOptions",
+        "importPath": "mcp.server.models",
+        "description": "mcp.server.models",
+        "isExtraImport": true,
+        "detail": "mcp.server.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "closing",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "ZoneInfo",
+        "importPath": "zoneinfo",
+        "description": "zoneinfo",
+        "isExtraImport": true,
+        "detail": "zoneinfo",
+        "documentation": {}
+    },
+    {
+        "label": "freeze_time",
+        "importPath": "freezegun",
+        "description": "freezegun",
+        "isExtraImport": true,
+        "detail": "freezegun",
+        "documentation": {}
+    },
+    {
+        "label": "TimeServer",
+        "importPath": "mcp_server_time.server",
+        "description": "mcp_server_time.server",
+        "isExtraImport": true,
+        "detail": "mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitHashParamType",
+        "kind": 6,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "class GitHashParamType(click.ParamType):\n    name = \"git_hash\"\n    def convert(\n        self, value: Any, param: click.Parameter | None, ctx: click.Context | None\n    ) -> GitHash | None:\n        if value is None:\n            return None\n        if not (8 <= len(value) <= 40):\n            self.fail(f\"Git hash must be between 8 and 40 characters, got {len(value)}\")\n        if not re.match(r\"^[0-9a-fA-F]+$\", value):",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "Package",
+        "kind": 6,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "class Package(Protocol):\n    path: Path\n    def package_name(self) -> str: ...\n    def update_version(self, version: Version) -> None: ...\n@dataclass\nclass NpmPackage:\n    path: Path\n    def package_name(self) -> str:\n        with open(self.path / \"package.json\", \"r\") as f:\n            return json.load(f)[\"name\"]",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "NpmPackage",
+        "kind": 6,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "class NpmPackage:\n    path: Path\n    def package_name(self) -> str:\n        with open(self.path / \"package.json\", \"r\") as f:\n            return json.load(f)[\"name\"]\n    def update_version(self, version: Version):\n        with open(self.path / \"package.json\", \"r+\") as f:\n            data = json.load(f)\n            data[\"version\"] = version\n            f.seek(0)",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "PyPiPackage",
+        "kind": 6,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "class PyPiPackage:\n    path: Path\n    def package_name(self) -> str:\n        with open(self.path / \"pyproject.toml\") as f:\n            toml_data = tomlkit.parse(f.read())\n            name = toml_data.get(\"project\", {}).get(\"name\")\n            if not name:\n                raise Exception(\"No name in pyproject.toml project section\")\n            return str(name)\n    def update_version(self, version: Version):",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "has_changes",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def has_changes(path: Path, git_hash: GitHash) -> bool:\n    \"\"\"Check if any files changed between current state and git hash\"\"\"\n    try:\n        output = subprocess.run(\n            [\"git\", \"diff\", \"--name-only\", git_hash, \"--\", \".\"],\n            cwd=path,\n            check=True,\n            capture_output=True,\n            text=True,\n        )",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "gen_version",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def gen_version() -> Version:\n    \"\"\"Generate version based on current date\"\"\"\n    now = datetime.datetime.now()\n    return Version(f\"{now.year}.{now.month}.{now.day}\")\ndef find_changed_packages(directory: Path, git_hash: GitHash) -> Iterator[Package]:\n    for path in directory.glob(\"*/package.json\"):\n        if has_changes(path.parent, git_hash):\n            yield NpmPackage(path.parent)\n    for path in directory.glob(\"*/pyproject.toml\"):\n        if has_changes(path.parent, git_hash):",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "find_changed_packages",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def find_changed_packages(directory: Path, git_hash: GitHash) -> Iterator[Package]:\n    for path in directory.glob(\"*/package.json\"):\n        if has_changes(path.parent, git_hash):\n            yield NpmPackage(path.parent)\n    for path in directory.glob(\"*/pyproject.toml\"):\n        if has_changes(path.parent, git_hash):\n            yield PyPiPackage(path.parent)\n@click.group()\ndef cli():\n    pass",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def cli():\n    pass\n@cli.command(\"update-packages\")\n@click.option(\n    \"--directory\", type=click.Path(exists=True, path_type=Path), default=Path.cwd()\n)\n@click.argument(\"git_hash\", type=GIT_HASH)\ndef update_packages(directory: Path, git_hash: GitHash) -> int:\n    # Detect package type\n    path = directory.resolve(strict=True)",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "update_packages",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def update_packages(directory: Path, git_hash: GitHash) -> int:\n    # Detect package type\n    path = directory.resolve(strict=True)\n    version = gen_version()\n    for package in find_changed_packages(path, git_hash):\n        name = package.package_name()\n        package.update_version(version)\n        click.echo(f\"{name}@{version}\")\n    return 0\n@cli.command(\"generate-notes\")",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "generate_notes",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def generate_notes(directory: Path, git_hash: GitHash) -> int:\n    # Detect package type\n    path = directory.resolve(strict=True)\n    version = gen_version()\n    click.echo(f\"# Release : v{version}\")\n    click.echo(\"\")\n    click.echo(\"## Updated packages\")\n    for package in find_changed_packages(path, git_hash):\n        name = package.package_name()\n        click.echo(f\"- {name}@{version}\")",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "generate_version",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def generate_version() -> int:\n    # Detect package type\n    click.echo(gen_version())\n    return 0\n@cli.command(\"generate-matrix\")\n@click.option(\n    \"--directory\", type=click.Path(exists=True, path_type=Path), default=Path.cwd()\n)\n@click.option(\"--npm\", is_flag=True, default=False)\n@click.option(\"--pypi\", is_flag=True, default=False)",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "generate_matrix",
+        "kind": 2,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "def generate_matrix(directory: Path, git_hash: GitHash, pypi: bool, npm: bool) -> int:\n    # Detect package type\n    path = directory.resolve(strict=True)\n    version = gen_version()\n    changes = []\n    for package in find_changed_packages(path, git_hash):\n        pkg = package.path.relative_to(path)\n        if npm and isinstance(package, NpmPackage):\n            changes.append(str(pkg))\n        if pypi and isinstance(package, PyPiPackage):",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "Version",
+        "kind": 5,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "Version = NewType(\"Version\", str)\nGitHash = NewType(\"GitHash\", str)\nclass GitHashParamType(click.ParamType):\n    name = \"git_hash\"\n    def convert(\n        self, value: Any, param: click.Parameter | None, ctx: click.Context | None\n    ) -> GitHash | None:\n        if value is None:\n            return None\n        if not (8 <= len(value) <= 40):",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "GitHash",
+        "kind": 5,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "GitHash = NewType(\"GitHash\", str)\nclass GitHashParamType(click.ParamType):\n    name = \"git_hash\"\n    def convert(\n        self, value: Any, param: click.Parameter | None, ctx: click.Context | None\n    ) -> GitHash | None:\n        if value is None:\n            return None\n        if not (8 <= len(value) <= 40):\n            self.fail(f\"Git hash must be between 8 and 40 characters, got {len(value)}\")",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "GIT_HASH",
+        "kind": 5,
+        "importPath": "scripts.release",
+        "description": "scripts.release",
+        "peekOfCode": "GIT_HASH = GitHashParamType()\nclass Package(Protocol):\n    path: Path\n    def package_name(self) -> str: ...\n    def update_version(self, version: Version) -> None: ...\n@dataclass\nclass NpmPackage:\n    path: Path\n    def package_name(self) -> str:\n        with open(self.path / \"package.json\", \"r\") as f:",
+        "detail": "scripts.release",
+        "documentation": {}
+    },
+    {
+        "label": "Fetch",
+        "kind": 6,
+        "importPath": "src.fetch.src.mcp_server_fetch.server",
+        "description": "src.fetch.src.mcp_server_fetch.server",
+        "peekOfCode": "class Fetch(BaseModel):\n    \"\"\"Parameters for fetching a URL.\"\"\"\n    url: Annotated[AnyUrl, Field(description=\"URL to fetch\")]\n    max_length: Annotated[\n        int,\n        Field(\n            default=5000,\n            description=\"Maximum number of characters to return.\",\n            gt=0,\n            lt=1000000,",
+        "detail": "src.fetch.src.mcp_server_fetch.server",
+        "documentation": {}
+    },
+    {
+        "label": "extract_content_from_html",
+        "kind": 2,
+        "importPath": "src.fetch.src.mcp_server_fetch.server",
+        "description": "src.fetch.src.mcp_server_fetch.server",
+        "peekOfCode": "def extract_content_from_html(html: str) -> str:\n    \"\"\"Extract and convert HTML content to Markdown format.\n    Args:\n        html: Raw HTML content to process\n    Returns:\n        Simplified markdown version of the content\n    \"\"\"\n    ret = readabilipy.simple_json.simple_json_from_html_string(\n        html, use_readability=True\n    )",
+        "detail": "src.fetch.src.mcp_server_fetch.server",
+        "documentation": {}
+    },
+    {
+        "label": "get_robots_txt_url",
+        "kind": 2,
+        "importPath": "src.fetch.src.mcp_server_fetch.server",
+        "description": "src.fetch.src.mcp_server_fetch.server",
+        "peekOfCode": "def get_robots_txt_url(url: str) -> str:\n    \"\"\"Get the robots.txt URL for a given website URL.\n    Args:\n        url: Website URL to get robots.txt for\n    Returns:\n        URL of the robots.txt file\n    \"\"\"\n    # Parse the URL into components\n    parsed = urlparse(url)\n    # Reconstruct the base URL with just scheme, netloc, and /robots.txt path",
+        "detail": "src.fetch.src.mcp_server_fetch.server",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_USER_AGENT_AUTONOMOUS",
+        "kind": 5,
+        "importPath": "src.fetch.src.mcp_server_fetch.server",
+        "description": "src.fetch.src.mcp_server_fetch.server",
+        "peekOfCode": "DEFAULT_USER_AGENT_AUTONOMOUS = \"ModelContextProtocol/1.0 (Autonomous; +https://github.com/modelcontextprotocol/servers)\"\nDEFAULT_USER_AGENT_MANUAL = \"ModelContextProtocol/1.0 (User-Specified; +https://github.com/modelcontextprotocol/servers)\"\ndef extract_content_from_html(html: str) -> str:\n    \"\"\"Extract and convert HTML content to Markdown format.\n    Args:\n        html: Raw HTML content to process\n    Returns:\n        Simplified markdown version of the content\n    \"\"\"\n    ret = readabilipy.simple_json.simple_json_from_html_string(",
+        "detail": "src.fetch.src.mcp_server_fetch.server",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_USER_AGENT_MANUAL",
+        "kind": 5,
+        "importPath": "src.fetch.src.mcp_server_fetch.server",
+        "description": "src.fetch.src.mcp_server_fetch.server",
+        "peekOfCode": "DEFAULT_USER_AGENT_MANUAL = \"ModelContextProtocol/1.0 (User-Specified; +https://github.com/modelcontextprotocol/servers)\"\ndef extract_content_from_html(html: str) -> str:\n    \"\"\"Extract and convert HTML content to Markdown format.\n    Args:\n        html: Raw HTML content to process\n    Returns:\n        Simplified markdown version of the content\n    \"\"\"\n    ret = readabilipy.simple_json.simple_json_from_html_string(\n        html, use_readability=True",
+        "detail": "src.fetch.src.mcp_server_fetch.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitStatus",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitStatus(BaseModel):\n    repo_path: str\nclass GitDiffUnstaged(BaseModel):\n    repo_path: str\nclass GitDiffStaged(BaseModel):\n    repo_path: str\nclass GitDiff(BaseModel):\n    repo_path: str\n    target: str\nclass GitCommit(BaseModel):",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitDiffUnstaged",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitDiffUnstaged(BaseModel):\n    repo_path: str\nclass GitDiffStaged(BaseModel):\n    repo_path: str\nclass GitDiff(BaseModel):\n    repo_path: str\n    target: str\nclass GitCommit(BaseModel):\n    repo_path: str\n    message: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitDiffStaged",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitDiffStaged(BaseModel):\n    repo_path: str\nclass GitDiff(BaseModel):\n    repo_path: str\n    target: str\nclass GitCommit(BaseModel):\n    repo_path: str\n    message: str\nclass GitAdd(BaseModel):\n    repo_path: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitDiff",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitDiff(BaseModel):\n    repo_path: str\n    target: str\nclass GitCommit(BaseModel):\n    repo_path: str\n    message: str\nclass GitAdd(BaseModel):\n    repo_path: str\n    files: list[str]\nclass GitReset(BaseModel):",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitCommit",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitCommit(BaseModel):\n    repo_path: str\n    message: str\nclass GitAdd(BaseModel):\n    repo_path: str\n    files: list[str]\nclass GitReset(BaseModel):\n    repo_path: str\nclass GitLog(BaseModel):\n    repo_path: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitAdd",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitAdd(BaseModel):\n    repo_path: str\n    files: list[str]\nclass GitReset(BaseModel):\n    repo_path: str\nclass GitLog(BaseModel):\n    repo_path: str\n    max_count: int = 10\nclass GitCreateBranch(BaseModel):\n    repo_path: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitReset",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitReset(BaseModel):\n    repo_path: str\nclass GitLog(BaseModel):\n    repo_path: str\n    max_count: int = 10\nclass GitCreateBranch(BaseModel):\n    repo_path: str\n    branch_name: str\n    base_branch: str | None = None\nclass GitCheckout(BaseModel):",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitLog",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitLog(BaseModel):\n    repo_path: str\n    max_count: int = 10\nclass GitCreateBranch(BaseModel):\n    repo_path: str\n    branch_name: str\n    base_branch: str | None = None\nclass GitCheckout(BaseModel):\n    repo_path: str\n    branch_name: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitCreateBranch",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitCreateBranch(BaseModel):\n    repo_path: str\n    branch_name: str\n    base_branch: str | None = None\nclass GitCheckout(BaseModel):\n    repo_path: str\n    branch_name: str\nclass GitShow(BaseModel):\n    repo_path: str\n    revision: str",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitCheckout",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitCheckout(BaseModel):\n    repo_path: str\n    branch_name: str\nclass GitShow(BaseModel):\n    repo_path: str\n    revision: str\nclass GitInit(BaseModel):\n    repo_path: str\nclass GitTools(str, Enum):\n    STATUS = \"git_status\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitShow",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitShow(BaseModel):\n    repo_path: str\n    revision: str\nclass GitInit(BaseModel):\n    repo_path: str\nclass GitTools(str, Enum):\n    STATUS = \"git_status\"\n    DIFF_UNSTAGED = \"git_diff_unstaged\"\n    DIFF_STAGED = \"git_diff_staged\"\n    DIFF = \"git_diff\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitInit",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitInit(BaseModel):\n    repo_path: str\nclass GitTools(str, Enum):\n    STATUS = \"git_status\"\n    DIFF_UNSTAGED = \"git_diff_unstaged\"\n    DIFF_STAGED = \"git_diff_staged\"\n    DIFF = \"git_diff\"\n    COMMIT = \"git_commit\"\n    ADD = \"git_add\"\n    RESET = \"git_reset\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "GitTools",
+        "kind": 6,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "class GitTools(str, Enum):\n    STATUS = \"git_status\"\n    DIFF_UNSTAGED = \"git_diff_unstaged\"\n    DIFF_STAGED = \"git_diff_staged\"\n    DIFF = \"git_diff\"\n    COMMIT = \"git_commit\"\n    ADD = \"git_add\"\n    RESET = \"git_reset\"\n    LOG = \"git_log\"\n    CREATE_BRANCH = \"git_create_branch\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_status",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_status(repo: git.Repo) -> str:\n    return repo.git.status()\ndef git_diff_unstaged(repo: git.Repo) -> str:\n    return repo.git.diff()\ndef git_diff_staged(repo: git.Repo) -> str:\n    return repo.git.diff(\"--cached\")\ndef git_diff(repo: git.Repo, target: str) -> str:\n    return repo.git.diff(target)\ndef git_commit(repo: git.Repo, message: str) -> str:\n    commit = repo.index.commit(message)",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_diff_unstaged",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_diff_unstaged(repo: git.Repo) -> str:\n    return repo.git.diff()\ndef git_diff_staged(repo: git.Repo) -> str:\n    return repo.git.diff(\"--cached\")\ndef git_diff(repo: git.Repo, target: str) -> str:\n    return repo.git.diff(target)\ndef git_commit(repo: git.Repo, message: str) -> str:\n    commit = repo.index.commit(message)\n    return f\"Changes committed successfully with hash {commit.hexsha}\"\ndef git_add(repo: git.Repo, files: list[str]) -> str:",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_diff_staged",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_diff_staged(repo: git.Repo) -> str:\n    return repo.git.diff(\"--cached\")\ndef git_diff(repo: git.Repo, target: str) -> str:\n    return repo.git.diff(target)\ndef git_commit(repo: git.Repo, message: str) -> str:\n    commit = repo.index.commit(message)\n    return f\"Changes committed successfully with hash {commit.hexsha}\"\ndef git_add(repo: git.Repo, files: list[str]) -> str:\n    repo.index.add(files)\n    return \"Files staged successfully\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_diff",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_diff(repo: git.Repo, target: str) -> str:\n    return repo.git.diff(target)\ndef git_commit(repo: git.Repo, message: str) -> str:\n    commit = repo.index.commit(message)\n    return f\"Changes committed successfully with hash {commit.hexsha}\"\ndef git_add(repo: git.Repo, files: list[str]) -> str:\n    repo.index.add(files)\n    return \"Files staged successfully\"\ndef git_reset(repo: git.Repo) -> str:\n    repo.index.reset()",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_commit",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_commit(repo: git.Repo, message: str) -> str:\n    commit = repo.index.commit(message)\n    return f\"Changes committed successfully with hash {commit.hexsha}\"\ndef git_add(repo: git.Repo, files: list[str]) -> str:\n    repo.index.add(files)\n    return \"Files staged successfully\"\ndef git_reset(repo: git.Repo) -> str:\n    repo.index.reset()\n    return \"All staged changes reset\"\ndef git_log(repo: git.Repo, max_count: int = 10) -> list[str]:",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_add",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_add(repo: git.Repo, files: list[str]) -> str:\n    repo.index.add(files)\n    return \"Files staged successfully\"\ndef git_reset(repo: git.Repo) -> str:\n    repo.index.reset()\n    return \"All staged changes reset\"\ndef git_log(repo: git.Repo, max_count: int = 10) -> list[str]:\n    commits = list(repo.iter_commits(max_count=max_count))\n    log = []\n    for commit in commits:",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_reset",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_reset(repo: git.Repo) -> str:\n    repo.index.reset()\n    return \"All staged changes reset\"\ndef git_log(repo: git.Repo, max_count: int = 10) -> list[str]:\n    commits = list(repo.iter_commits(max_count=max_count))\n    log = []\n    for commit in commits:\n        log.append(\n            f\"Commit: {commit.hexsha}\\n\"\n            f\"Author: {commit.author}\\n\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_log",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_log(repo: git.Repo, max_count: int = 10) -> list[str]:\n    commits = list(repo.iter_commits(max_count=max_count))\n    log = []\n    for commit in commits:\n        log.append(\n            f\"Commit: {commit.hexsha}\\n\"\n            f\"Author: {commit.author}\\n\"\n            f\"Date: {commit.authored_datetime}\\n\"\n            f\"Message: {commit.message}\\n\"\n        )",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_create_branch",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_create_branch(repo: git.Repo, branch_name: str, base_branch: str | None = None) -> str:\n    if base_branch:\n        base = repo.refs[base_branch]\n    else:\n        base = repo.active_branch\n    repo.create_head(branch_name, base)\n    return f\"Created branch '{branch_name}' from '{base.name}'\"\ndef git_checkout(repo: git.Repo, branch_name: str) -> str:\n    repo.git.checkout(branch_name)\n    return f\"Switched to branch '{branch_name}'\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_checkout",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_checkout(repo: git.Repo, branch_name: str) -> str:\n    repo.git.checkout(branch_name)\n    return f\"Switched to branch '{branch_name}'\"\ndef git_init(repo_path: str) -> str:\n    try:\n        repo = git.Repo.init(path=repo_path, mkdir=True)\n        return f\"Initialized empty Git repository in {repo.git_dir}\"\n    except Exception as e:\n        return f\"Error initializing repository: {str(e)}\"\ndef git_show(repo: git.Repo, revision: str) -> str:",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_init",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_init(repo_path: str) -> str:\n    try:\n        repo = git.Repo.init(path=repo_path, mkdir=True)\n        return f\"Initialized empty Git repository in {repo.git_dir}\"\n    except Exception as e:\n        return f\"Error initializing repository: {str(e)}\"\ndef git_show(repo: git.Repo, revision: str) -> str:\n    commit = repo.commit(revision)\n    output = [\n        f\"Commit: {commit.hexsha}\\n\"",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "git_show",
+        "kind": 2,
+        "importPath": "src.git.src.mcp_server_git.server",
+        "description": "src.git.src.mcp_server_git.server",
+        "peekOfCode": "def git_show(repo: git.Repo, revision: str) -> str:\n    commit = repo.commit(revision)\n    output = [\n        f\"Commit: {commit.hexsha}\\n\"\n        f\"Author: {commit.author}\\n\"\n        f\"Date: {commit.authored_datetime}\\n\"\n        f\"Message: {commit.message}\\n\"\n    ]\n    if commit.parents:\n        parent = commit.parents[0]",
+        "detail": "src.git.src.mcp_server_git.server",
+        "documentation": {}
+    },
+    {
+        "label": "test_repository",
+        "kind": 2,
+        "importPath": "src.git.tests.test_server",
+        "description": "src.git.tests.test_server",
+        "peekOfCode": "def test_repository(tmp_path: Path):\n    repo_path = tmp_path / \"temp_test_repo\"\n    test_repo = git.Repo.init(repo_path)\n    Path(repo_path / \"test.txt\").write_text(\"test\")\n    test_repo.index.add([\"test.txt\"])\n    test_repo.index.commit(\"initial commit\")\n    yield test_repo\n    shutil.rmtree(repo_path)\ndef test_git_checkout_existing_branch(test_repository):\n    test_repository.git.branch(\"test-branch\")",
+        "detail": "src.git.tests.test_server",
+        "documentation": {}
+    },
+    {
+        "label": "test_git_checkout_existing_branch",
+        "kind": 2,
+        "importPath": "src.git.tests.test_server",
+        "description": "src.git.tests.test_server",
+        "peekOfCode": "def test_git_checkout_existing_branch(test_repository):\n    test_repository.git.branch(\"test-branch\")\n    result = git_checkout(test_repository, \"test-branch\")\n    assert \"Switched to branch 'test-branch'\" in result\n    assert test_repository.active_branch.name == \"test-branch\"\ndef test_git_checkout_nonexistent_branch(test_repository):\n    with pytest.raises(git.GitCommandError):\n        git_checkout(test_repository, \"nonexistent-branch\")",
+        "detail": "src.git.tests.test_server",
+        "documentation": {}
+    },
+    {
+        "label": "test_git_checkout_nonexistent_branch",
+        "kind": 2,
+        "importPath": "src.git.tests.test_server",
+        "description": "src.git.tests.test_server",
+        "peekOfCode": "def test_git_checkout_nonexistent_branch(test_repository):\n    with pytest.raises(git.GitCommandError):\n        git_checkout(test_repository, \"nonexistent-branch\")",
+        "detail": "src.git.tests.test_server",
+        "documentation": {}
+    },
+    {
+        "label": "SentryIssueData",
+        "kind": 6,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "class SentryIssueData:\n    title: str\n    issue_id: str\n    status: str\n    level: str\n    first_seen: str\n    last_seen: str\n    count: int\n    stacktrace: str\n    def to_text(self) -> str:",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "SentryError",
+        "kind": 6,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "class SentryError(Exception):\n    pass\ndef extract_issue_id(issue_id_or_url: str) -> str:\n    \"\"\"\n    Extracts the Sentry issue ID from either a full URL or a standalone ID.\n    This function validates the input and returns the numeric issue ID.\n    It raises SentryError for invalid inputs, including empty strings,\n    non-Sentry URLs, malformed paths, and non-numeric IDs.\n    \"\"\"\n    if not issue_id_or_url:",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "extract_issue_id",
+        "kind": 2,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "def extract_issue_id(issue_id_or_url: str) -> str:\n    \"\"\"\n    Extracts the Sentry issue ID from either a full URL or a standalone ID.\n    This function validates the input and returns the numeric issue ID.\n    It raises SentryError for invalid inputs, including empty strings,\n    non-Sentry URLs, malformed paths, and non-numeric IDs.\n    \"\"\"\n    if not issue_id_or_url:\n        raise SentryError(\"Missing issue_id_or_url argument\")\n    if issue_id_or_url.startswith((\"http://\", \"https://\")):",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "create_stacktrace",
+        "kind": 2,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "def create_stacktrace(latest_event: dict) -> str:\n    \"\"\"\n    Creates a formatted stacktrace string from the latest Sentry event.\n    This function extracts exception information and stacktrace details from the\n    provided event dictionary, formatting them into a human-readable string.\n    It handles multiple exceptions and includes file, line number, and function\n    information for each frame in the stacktrace.\n    Args:\n        latest_event (dict): A dictionary containing the latest Sentry event data.\n    Returns:",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "def main(auth_token: str):\n    async def _run():\n        async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):\n            server = await serve(auth_token)\n            await server.run(\n                read_stream,\n                write_stream,\n                InitializationOptions(\n                    server_name=\"sentry\",\n                    server_version=\"0.4.1\",",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "SENTRY_API_BASE",
+        "kind": 5,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "SENTRY_API_BASE = \"https://sentry.io/api/0/\"\nMISSING_AUTH_TOKEN_MESSAGE = (\n    \"\"\"Sentry authentication token not found. Please specify your Sentry auth token.\"\"\"\n)\n@dataclass\nclass SentryIssueData:\n    title: str\n    issue_id: str\n    status: str\n    level: str",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "MISSING_AUTH_TOKEN_MESSAGE",
+        "kind": 5,
+        "importPath": "src.sentry.src.mcp_server_sentry.server",
+        "description": "src.sentry.src.mcp_server_sentry.server",
+        "peekOfCode": "MISSING_AUTH_TOKEN_MESSAGE = (\n    \"\"\"Sentry authentication token not found. Please specify your Sentry auth token.\"\"\"\n)\n@dataclass\nclass SentryIssueData:\n    title: str\n    issue_id: str\n    status: str\n    level: str\n    first_seen: str",
+        "detail": "src.sentry.src.mcp_server_sentry.server",
+        "documentation": {}
+    },
+    {
+        "label": "SqliteDatabase",
+        "kind": 6,
+        "importPath": "src.sqlite.src.mcp_server_sqlite.server",
+        "description": "src.sqlite.src.mcp_server_sqlite.server",
+        "peekOfCode": "class SqliteDatabase:\n    def __init__(self, db_path: str):\n        self.db_path = str(Path(db_path).expanduser())\n        Path(self.db_path).parent.mkdir(parents=True, exist_ok=True)\n        self._init_database()\n        self.insights: list[str] = []\n    def _init_database(self):\n        \"\"\"Initialize connection to the SQLite database\"\"\"\n        logger.debug(\"Initializing database connection\")\n        with closing(sqlite3.connect(self.db_path)) as conn:",
+        "detail": "src.sqlite.src.mcp_server_sqlite.server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.sqlite.src.mcp_server_sqlite.server",
+        "description": "src.sqlite.src.mcp_server_sqlite.server",
+        "peekOfCode": "logger = logging.getLogger('mcp_sqlite_server')\nlogger.info(\"Starting MCP SQLite Server\")\nPROMPT_TEMPLATE = \"\"\"\nThe assistants goal is to walkthrough an informative demo of MCP. To demonstrate the Model Context Protocol (MCP) we will leverage this example server to interact with an SQLite database.\nIt is important that you first explain to the user what is going on. The user has downloaded and installed the SQLite MCP Server and is now ready to use it.\nThey have selected the MCP menu item which is contained within a parent menu denoted by the paperclip icon. Inside this menu they selected an icon that illustrates two electrical plugs connecting. This is the MCP menu.\nBased on what MCP servers the user has installed they can click the button which reads: 'Choose an integration' this will present a drop down with Prompts and Resources. The user has selected the prompt titled: 'mcp-demo'.\nThis text file is that prompt. The goal of the following instructions is to walk the user through the process of using the 3 core aspects of an MCP server. These are: Prompts, Tools, and Resources.\nThey have already used a prompt and provided a topic. The topic is: {topic}. The user is now ready to begin the demo.\nHere is some more information about mcp and this specific mcp server:",
+        "detail": "src.sqlite.src.mcp_server_sqlite.server",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT_TEMPLATE",
+        "kind": 5,
+        "importPath": "src.sqlite.src.mcp_server_sqlite.server",
+        "description": "src.sqlite.src.mcp_server_sqlite.server",
+        "peekOfCode": "PROMPT_TEMPLATE = \"\"\"\nThe assistants goal is to walkthrough an informative demo of MCP. To demonstrate the Model Context Protocol (MCP) we will leverage this example server to interact with an SQLite database.\nIt is important that you first explain to the user what is going on. The user has downloaded and installed the SQLite MCP Server and is now ready to use it.\nThey have selected the MCP menu item which is contained within a parent menu denoted by the paperclip icon. Inside this menu they selected an icon that illustrates two electrical plugs connecting. This is the MCP menu.\nBased on what MCP servers the user has installed they can click the button which reads: 'Choose an integration' this will present a drop down with Prompts and Resources. The user has selected the prompt titled: 'mcp-demo'.\nThis text file is that prompt. The goal of the following instructions is to walk the user through the process of using the 3 core aspects of an MCP server. These are: Prompts, Tools, and Resources.\nThey have already used a prompt and provided a topic. The topic is: {topic}. The user is now ready to begin the demo.\nHere is some more information about mcp and this specific mcp server:\n<mcp>\nPrompts:",
+        "detail": "src.sqlite.src.mcp_server_sqlite.server",
+        "documentation": {}
+    },
+    {
+        "label": "TimeTools",
+        "kind": 6,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "class TimeTools(str, Enum):\n    GET_CURRENT_TIME = \"get_current_time\"\n    CONVERT_TIME = \"convert_time\"\nclass TimeResult(BaseModel):\n    timezone: str\n    datetime: str\n    is_dst: bool\nclass TimeConversionResult(BaseModel):\n    source: TimeResult\n    target: TimeResult",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "TimeResult",
+        "kind": 6,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "class TimeResult(BaseModel):\n    timezone: str\n    datetime: str\n    is_dst: bool\nclass TimeConversionResult(BaseModel):\n    source: TimeResult\n    target: TimeResult\n    time_difference: str\nclass TimeConversionInput(BaseModel):\n    source_tz: str",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "TimeConversionResult",
+        "kind": 6,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "class TimeConversionResult(BaseModel):\n    source: TimeResult\n    target: TimeResult\n    time_difference: str\nclass TimeConversionInput(BaseModel):\n    source_tz: str\n    time: str\n    target_tz_list: list[str]\ndef get_local_tz(local_tz_override: str | None = None) -> ZoneInfo:\n    if local_tz_override:",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "TimeConversionInput",
+        "kind": 6,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "class TimeConversionInput(BaseModel):\n    source_tz: str\n    time: str\n    target_tz_list: list[str]\ndef get_local_tz(local_tz_override: str | None = None) -> ZoneInfo:\n    if local_tz_override:\n        return ZoneInfo(local_tz_override)\n    # Get local timezone from datetime.now()\n    tzinfo = datetime.now().astimezone(tz=None).tzinfo\n    if tzinfo is not None:",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "TimeServer",
+        "kind": 6,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "class TimeServer:\n    def get_current_time(self, timezone_name: str) -> TimeResult:\n        \"\"\"Get current time in specified timezone\"\"\"\n        timezone = get_zoneinfo(timezone_name)\n        current_time = datetime.now(timezone)\n        return TimeResult(\n            timezone=timezone_name,\n            datetime=current_time.isoformat(timespec=\"seconds\"),\n            is_dst=bool(current_time.dst()),\n        )",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "get_local_tz",
+        "kind": 2,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "def get_local_tz(local_tz_override: str | None = None) -> ZoneInfo:\n    if local_tz_override:\n        return ZoneInfo(local_tz_override)\n    # Get local timezone from datetime.now()\n    tzinfo = datetime.now().astimezone(tz=None).tzinfo\n    if tzinfo is not None:\n        return ZoneInfo(str(tzinfo))\n    raise McpError(\"Could not determine local timezone - tzinfo is None\")\ndef get_zoneinfo(timezone_name: str) -> ZoneInfo:\n    try:",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "get_zoneinfo",
+        "kind": 2,
+        "importPath": "src.time.src.mcp_server_time.server",
+        "description": "src.time.src.mcp_server_time.server",
+        "peekOfCode": "def get_zoneinfo(timezone_name: str) -> ZoneInfo:\n    try:\n        return ZoneInfo(timezone_name)\n    except Exception as e:\n        raise McpError(f\"Invalid timezone: {str(e)}\")\nclass TimeServer:\n    def get_current_time(self, timezone_name: str) -> TimeResult:\n        \"\"\"Get current time in specified timezone\"\"\"\n        timezone = get_zoneinfo(timezone_name)\n        current_time = datetime.now(timezone)",
+        "detail": "src.time.src.mcp_server_time.server",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_current_time",
+        "kind": 2,
+        "importPath": "src.time.test.time_server_test",
+        "description": "src.time.test.time_server_test",
+        "peekOfCode": "def test_get_current_time(test_time, timezone, expected):\n    with freeze_time(test_time):\n        time_server = TimeServer()\n        result = time_server.get_current_time(timezone)\n        assert result.timezone == expected[\"timezone\"]\n        assert result.datetime == expected[\"datetime\"]\n        assert result.is_dst == expected[\"is_dst\"]\ndef test_get_current_time_with_invalid_timezone():\n    time_server = TimeServer()\n    with pytest.raises(",
+        "detail": "src.time.test.time_server_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_current_time_with_invalid_timezone",
+        "kind": 2,
+        "importPath": "src.time.test.time_server_test",
+        "description": "src.time.test.time_server_test",
+        "peekOfCode": "def test_get_current_time_with_invalid_timezone():\n    time_server = TimeServer()\n    with pytest.raises(\n        McpError,\n        match=r\"Invalid timezone: 'No time zone found with key Invalid/Timezone'\",\n    ):\n        time_server.get_current_time(\"Invalid/Timezone\")\n@pytest.mark.parametrize(\n    \"source_tz,time_str,target_tz,expected_error\",\n    [",
+        "detail": "src.time.test.time_server_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_convert_time_errors",
+        "kind": 2,
+        "importPath": "src.time.test.time_server_test",
+        "description": "src.time.test.time_server_test",
+        "peekOfCode": "def test_convert_time_errors(source_tz, time_str, target_tz, expected_error):\n    time_server = TimeServer()\n    with pytest.raises((McpError, ValueError), match=expected_error):\n        time_server.convert_time(source_tz, time_str, target_tz)\n@pytest.mark.parametrize(\n    \"test_time,source_tz,time_str,target_tz,expected\",\n    [\n        # Basic case: Standard time conversion between Warsaw and London (1 hour difference)\n        # Warsaw is UTC+1, London is UTC+0\n        (",
+        "detail": "src.time.test.time_server_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_convert_time",
+        "kind": 2,
+        "importPath": "src.time.test.time_server_test",
+        "description": "src.time.test.time_server_test",
+        "peekOfCode": "def test_convert_time(test_time, source_tz, time_str, target_tz, expected):\n    with freeze_time(test_time):\n        time_server = TimeServer()\n        result = time_server.convert_time(source_tz, time_str, target_tz)\n        assert result.source.timezone == expected[\"source\"][\"timezone\"]\n        assert result.target.timezone == expected[\"target\"][\"timezone\"]\n        assert result.source.datetime == expected[\"source\"][\"datetime\"]\n        assert result.target.datetime == expected[\"target\"][\"datetime\"]\n        assert result.source.is_dst == expected[\"source\"][\"is_dst\"]\n        assert result.target.is_dst == expected[\"target\"][\"is_dst\"]",
+        "detail": "src.time.test.time_server_test",
+        "documentation": {}
+    }
+]
